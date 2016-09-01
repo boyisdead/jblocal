@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:1611
+#EXTINF:10.640000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1611.ts
+#EXTINF:10.080000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1612.ts
+#EXTINF:10.080000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1613.ts
+#EXTINF:9.720000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1614.ts
+#EXTINF:10.280000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1615.ts
+#EXTINF:9.440000,
+http://anatoliantv.xyz:7412/streaming/clients_live.php?extension=m3u8&username=mesutx82&password=54wd5641sd2&stream=672&type=hls&segment=672_1616.ts
